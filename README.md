@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Neural Networks**
 
-- 💬 Ask me about **Django, Javascript, HTML, CSS, Numpy, Pandas**
+- 💬 Ask me about **Python, Django, Javascript, HTML, CSS, Numpy, Pandas**
 
 - 📫 How to reach me **aryan68125@gmail.com**
 
