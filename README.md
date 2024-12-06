@@ -48,4 +48,4 @@ Not just another software slinger I thrive on unraveling complex puzzles with sc
 
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="100%"/>
