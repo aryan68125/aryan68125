@@ -36,8 +36,8 @@
 
 <div align="left">
   <div>
-    <p>📫 Email **aryan68125@gmail.com**</p>
-  </div>
+    📫 Email **aryan68125@gmail.com**
+ </div>
   <a href="https://www.linkedin.com/in/aditya-k-610796243/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
