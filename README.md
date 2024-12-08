@@ -72,8 +72,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/aryan68125/aryan68125/output/snake.svg" alt="Snake animation" />
-
-###
