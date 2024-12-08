@@ -59,19 +59,23 @@
 
 ###
 
+###
+
+<div align="center">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
+</div>
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="70%"/>
+</div>
+
+###
+
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/aryan68125/count.svg?"  />
 </div>
 
 ###
-
-<div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="60%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
-</div>
-
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="60%"/>
-</div>
-
-###
-
