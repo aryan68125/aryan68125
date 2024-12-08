@@ -64,8 +64,9 @@
 ###
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
 </div>
+
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="60%"/>
 </div>
