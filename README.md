@@ -59,10 +59,10 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="65%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="65%"/>
-</div>
+</div>-->
 
 ###
 
