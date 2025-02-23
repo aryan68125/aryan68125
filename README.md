@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Aditya, your go-to python wizard, I have unhealthy obsession for Djnago, FastAPI, and brewing the perfect cup of code. I spend my days crafting top-notch applications and staying one step ahead in tech trends.<br> <br> Not just another software slinger I thrive on unraveling complex puzzles with scalable solutions that make even the toughest bugs tremble.Now that you've got a taste of what makes me tick ✔</p>
+<p align="left">Hey there, I'm Aditya, your go-to python wizard, I have unhealthy obsession for Djnago, FastAPI, and brewing the perfect cup of code. I spend my days crafting top-notch applications and staying one step ahead in tech trends.<br> <br> Not just another software slinger I thrive on unraveling complex puzzles with scalable solutions that make even the toughest bugs tremble.Now that you've got a taste of what makes me tick ✔. Let's get connected</p>
 
 ###
 
