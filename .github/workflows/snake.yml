@@ -35,5 +35,6 @@ jobs:
         with:
           target_branch: output
           build_dir: .
-          token: ${{ secrets.SNAKE_PAT }}   # ✅ this is correct
+        env:
+          GH_PAT: ${{ secrets.SNAKE_PAT }}   # ✅ this is correct
 
