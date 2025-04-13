@@ -67,7 +67,7 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="65%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="65%"/>
 </div>-->
-![snake gif](https://github.com/aryan68125/aryan68125/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=#8e44ad,#8e44ad,#8e44ad,#444444,#444444)
 
 ###
 
