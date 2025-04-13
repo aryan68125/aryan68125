@@ -75,7 +75,23 @@
 ###
 
 <!-- DARK MODE OPTIMIZED SNAKE ANIMATION -->
-![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000)
+<div align="center">
+  <!-- This uses GitHub's built-in dark mode detection to switch between snake animations -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2358A6FF,%2358A6FF,%23323232,%23161B22"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000"
+    />
+  </picture>
+</div>
 
 ###
 
