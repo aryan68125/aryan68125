@@ -54,27 +54,32 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan68125&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan68125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan68125&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan68125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-
-###
-
+<!-- DARK MODE OPTIMIZED TROPHY SECTION -->
 <div align="center">
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="65%" src="https://github-profile-trophy.vercel.app/?username=aryan68125" alt="aryan68125" /></a> </p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&" alt="aryan68125" width="65%"/>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img width="65%" src="https://github-profile-trophy.vercel.app/?username=aryan68125&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="aryan68125 trophies" />
+    </a>
+  </p>
+  
+  <!-- DARK MODE OPTIMIZED STREAK STATS -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan68125&theme=dark&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="aryan68125 streak stats" width="65%"/>
 </div>
 
 ###
 
-###
-
-![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000)
-
-###
+<!-- DARK MODE OPTIMIZED SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
