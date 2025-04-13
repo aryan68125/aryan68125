@@ -72,7 +72,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=%238e44ad,%238e44ad,%238e44ad,%23444444,%23444444)
+![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000)
 
 ###
 
