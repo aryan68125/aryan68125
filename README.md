@@ -80,6 +80,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg">
 </picture>
+![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=00FFAA&color_dots=%23CCCCCC,%2300FFAA,%2300FFAA,%23222222,%23000000)
+
 
 ###
 
