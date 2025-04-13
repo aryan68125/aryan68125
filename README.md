@@ -71,7 +71,9 @@
 ###
 
 ###
-![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=#8e44ad,#8e44ad,#8e44ad,#444444,#444444)
+
+![Snake animation](https://raw.githubusercontent.com/aryan68125/aryan68125/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=%238e44ad,%238e44ad,%238e44ad,%23444444,%23444444)
+
 ###
 
 ###
