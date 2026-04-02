@@ -47,7 +47,7 @@ Hey, I'm Aditya 👋<br><br>Python-first engineer with a strong bias for buildin
 ![](https://github-profile-trophy.vercel.app/?username=aryan68125&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=aryan68125&icon=0&color=0)](https://visitcount.itsvg.in)
+```bash
+Computers are like mischievous genies they always give you what you ask for, but not always what you want.
+```
